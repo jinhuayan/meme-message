@@ -21,3 +21,14 @@ Uses a number of open source projects to work properly:
 ### Installation
 
 meme-message requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ vue init webpack 
+$ npm i -D nodemon
+$ npm i express cors body-parser mongodb
+$ npm i –g @vue/cli
+$ npm run serve
+$ npm install --save monk
+```
