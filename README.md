@@ -11,9 +11,8 @@ This project is
 
 Uses a number of open source projects to work properly:
 
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework
+* [Bootstrap](https://getbootstrap.com/) - great UI boilerplate for modern web apps
+* [node.js](https://nodejs.org/en/) - evented I/O for the backend
 * [Vue.js](https://vuejs.org/) - JavaScript Framework
 * [MongoDB](https://www.mongodb.com/) -  a cross-platform document-oriented database program. 
 * [Express.js](https://expressjs.com/) -  Fast, unopinionated, minimalist web framework for Node.js.
