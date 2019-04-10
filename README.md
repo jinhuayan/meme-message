@@ -1,6 +1,7 @@
 # meme-message
 
 ![alt text](http://yanjin.dev.fast.sheridanc.on.ca/Jinhua/images/portfolio/meme.png)
+![alt text](http://yanjin.dev.fast.sheridanc.on.ca/Jinhua/images/portfolio/form.png)
 
 This project is
   - View other's memes.
